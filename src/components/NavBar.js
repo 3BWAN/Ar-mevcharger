@@ -291,7 +291,7 @@ const MobileNavItem = ({ label, children, href }) => {
 
 const NAV_ITEMS = [
   {
-    label: 'الرئيسية',
+    label: 'الصفحة الرئيسية',
     href: '/',
   },
   {
