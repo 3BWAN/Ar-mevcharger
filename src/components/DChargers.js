@@ -48,7 +48,7 @@ import {
 // filter products by function making them only chargers
 const Achargers = products.filter((product) =>
   // product.function === 'charger' && product.id ==='11'
-      product.function === 'charger' && product.id < 24
+      product.function === 'charger' && product.id < 13
 
 );
     return (
