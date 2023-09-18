@@ -45,15 +45,13 @@ export default function Home() {
 السيارات الكهربائية            </Text>
           </Heading>
               
-              <div> 
-              <h1>
-              hello from here
+             
+            
               </h1>
               <img
         src="https://bobbyhadz.com/images/blog/react-prevent-multiple-button-clicks/thumbnail.webp"
-        alt="car"
-      />
-              </div>
+        alt="car"/>
+              
           <Text color={'gray.500'}>
 اشتر أفضل شاحن سيارة كهربائية بأفضل سعر في الإمارات.          </Text>
           <Stack
