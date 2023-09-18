@@ -275,7 +275,7 @@
             ratingCount: 4,
             description: 'وصلة الشحن السريع لشواحن DC سيارات فولس فاجن ID4 و ID6 CCS2 إلى GBT. يمكنك من شحن سيارات ID4 و ID6 باستخدام شواحن DC ذات منفذ السيارات الكهربائية الأوروبية CCS2 مثل Tesla الخليجي, BMW, Mercedes وغيرها الكثير.',
             portType: 'type 2',
-            function: 'adapter',
+            function: 'DC adapter',
             longDescription: 'باستخدام ادابتر DC CCS2 to GBT يمكن لصاحب سيارة VW ID4 و ID6 باستخدام شواحن السيارات الأوروبية السريعة. كما يمكن شحن أي سيارة كهربائية ذات منفذ GBT مثل Changan.',
             illustration: 'https://www.midaevse.com/uploads/CCS2-GBT-Adapter.jpg',
             illustration2: 'https://d.yixunpan.top/electway.com/wp-content/uploads/2021/03/img-5875.jpg',
