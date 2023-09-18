@@ -49,7 +49,7 @@ export default function Home() {
               <h1>
               hello from here
               </h1>
-             
+             <img src="https://static.vecteezy.com/system/resources/previews/014/435/720/non_2x/best-price-icon-best-price-guarantee-badge-great-price-label-icon-flat-style-vector.jpg" >
               </div>
           <Text color={'gray.500'}>
 اشتر أفضل شاحن سيارة كهربائية بأفضل سعر في الإمارات.          </Text>
