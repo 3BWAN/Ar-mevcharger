@@ -47,7 +47,7 @@ import {
 
 // filter products by function making them only chargers
 const Achargers = products.filter((product) =>
-  product.function === 'charger' && product.id <100 && product.id >200 
+  product.function === 'charger' && product.id ==='22'
 );
     return (
         <Container maxW="5xl" p={{ base: 5, md: 10 }} dir='rtl' alignItems= 'flex-start' > 
