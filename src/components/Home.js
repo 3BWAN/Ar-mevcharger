@@ -48,9 +48,7 @@ export default function Home() {
              
             
       
-              <img
-        src="https://bobbyhadz.com/images/blog/react-prevent-multiple-button-clicks/thumbnail.webp"
-        alt="car" />
+    
               
           <Text color={'gray.500'}>
 اشتر أفضل شاحن سيارة كهربائية بأفضل سعر في الإمارات.          </Text>
