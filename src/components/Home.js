@@ -47,9 +47,9 @@ export default function Home() {
               
               <div> 
               <h1>
-              hello
+              hello from here
               </h1>
-              <img src="">
+             
               </div>
           <Text color={'gray.500'}>
 اشتر أفضل شاحن سيارة كهربائية بأفضل سعر في الإمارات.          </Text>
