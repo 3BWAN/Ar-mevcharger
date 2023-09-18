@@ -44,6 +44,13 @@ export default function Home() {
             <Text as={'span'} color={'green.400'}>
 السيارات الكهربائية            </Text>
           </Heading>
+              
+              <div> 
+              <h1>
+              hello
+              </h1>
+              <img src="">
+              </div>
           <Text color={'gray.500'}>
 اشتر أفضل شاحن سيارة كهربائية بأفضل سعر في الإمارات.          </Text>
           <Stack
