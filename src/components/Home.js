@@ -47,10 +47,10 @@ export default function Home() {
               
              
             
-              </h1>
+      
               <img
         src="https://bobbyhadz.com/images/blog/react-prevent-multiple-button-clicks/thumbnail.webp"
-        alt="car"/>
+        alt="car" />
               
           <Text color={'gray.500'}>
 اشتر أفضل شاحن سيارة كهربائية بأفضل سعر في الإمارات.          </Text>
