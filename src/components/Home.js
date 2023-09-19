@@ -47,7 +47,7 @@ export default function Home() {
               
               {/*  */}
              <img
-             src="https://picsum.photos/150/150"
+             src="https://drive.google.com/file/d/1V6fQiUq9iE-e5ApaxlWXbUwvWdkLZ3yi/view?usp=sharing"
              alt=""
              />
             
