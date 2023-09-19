@@ -38,7 +38,8 @@ export default function Home() {
           spacing={{ base: 8, md: 14 }}
           py={{ base: 20, md: 36 }}>
                          
-                          <img src={offer} alt="MEV Charger" width={142} margin-top={-66}  margin-rigt={233} title='MEV Charger logo' />
+                          {/* <img src={offer} alt="MEV Charger" width={142} margin-top={-66}  margin-rigt={-233} title='MEV Charger logo' /> */}
+                          <img src={offer} alt="MEV Charger"  title='MEV Charger logo' />
 
 
           <Heading
