@@ -48,7 +48,7 @@ export default function Home() {
               {/*  */}
              <img
              src="https://drive.google.com/file/d/1V6fQiUq9iE-e5ApaxlWXbUwvWdkLZ3yi/view?usp=sharing"
-             alt=""
+             alt="test"
              />
             
             
