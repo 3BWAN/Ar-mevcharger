@@ -37,6 +37,8 @@ export default function Home() {
           textAlign={'center'}
           spacing={{ base: 8, md: 14 }}
           py={{ base: 20, md: 36 }}>
+                          <img src={offer} alt="MEV Charger"  title='MEV Charger logo' />
+
           <Heading
             fontWeight={600}
             as='h1'
@@ -49,7 +51,6 @@ export default function Home() {
               
               {/*  */}
           
-              <img src={offer} alt="MEV Charger"  title='MEV Charger logo' />
 
             
       
