@@ -8,6 +8,7 @@ import {
   Icon,
   useColorModeValue,
   createIcon,
+  
 
   
 } from '@chakra-ui/react';
@@ -16,6 +17,7 @@ import { ProductCard } from './ProductCard'
 import { products } from './data/productdata'
 import { ProductGrid } from './ProductGrid'
 import { Link } from 'react-router-dom';
+import offer from './images/BestPrice.png';
 
 export default function Home() {
   return (
@@ -50,7 +52,8 @@ export default function Home() {
              src="https://drive.google.com/file/d/1V6fQiUq9iE-e5ApaxlWXbUwvWdkLZ3yi/view?usp=sharing"
              alt="test"
              />
-            
+              <img src={offer} alt="MEV Charger" width={80} title='MEV Charger logo' />
+
             
       
     
