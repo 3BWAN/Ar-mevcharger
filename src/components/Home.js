@@ -48,11 +48,8 @@ export default function Home() {
           </Heading>
               
               {/*  */}
-             <img
-             src="https://drive.google.com/file/d/1V6fQiUq9iE-e5ApaxlWXbUwvWdkLZ3yi/view?usp=sharing"
-             alt="test"
-             />
-              <img src={offer} alt="MEV Charger" width={80} title='MEV Charger logo' />
+          
+              <img src={offer} alt="MEV Charger"  title='MEV Charger logo' />
 
             
       
