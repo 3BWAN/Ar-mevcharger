@@ -45,7 +45,12 @@ export default function Home() {
 السيارات الكهربائية            </Text>
           </Heading>
               
-             
+              {/*  */}
+             <img
+             src="https://picsum.photos/150/150"
+             alt=""
+             />
+            
             
       
     
