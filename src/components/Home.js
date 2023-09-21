@@ -39,8 +39,7 @@ export default function Home() {
           py={{ base: 20, md: 36 }}>
                          
                           {/* <img src={offer} alt="MEV Charger" width={142} margin-top={-66}  margin-rigt={-233} title='MEV Charger logo' /> */}
-                          {/* <img src={offer} alt="MEV Charger"  title='MEV Charger logo' /> */}
-
+                          <img src={offer} alt="MEV Charger"  title='MEV Charger logo' />
                           <img
           src={offer} 
           alt="Your Image"
@@ -48,8 +47,7 @@ export default function Home() {
           onLoad={handleFadeOut}
         />
 
- 
-  
+
           <Heading
             fontWeight={600}
             as='h1'
