@@ -267,7 +267,7 @@
             id:'11',
             name: 'ادابتر الشحن السريع DC CCS2 to GBT',
             currency: 'AED',
-            price: 5500,
+            price: 4500,
             flag: 'new',
             tags: ['CCS2 to GBT', 'ID4', 'ID6', 'فولكس فاجن'],
             imageSource: require('../images/product-images/DCAdapter.webp'),
