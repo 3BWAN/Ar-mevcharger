@@ -646,7 +646,7 @@
           current:' 250 أمبير',
           operatingTemperature: '-30°C ~ 85°C',
           power: '200 كيلوواط',
-          specialFeature: 'قفل أمان',
+          specialFeature: '',
           availablePorts: 'CCS2 to TESLA (المنفذ الأوروبي إلى المنفذ الأمريكي)',
 
 
