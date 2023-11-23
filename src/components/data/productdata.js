@@ -532,14 +532,14 @@
       },
   {
           id:'904',
-          name: 'Autel 909  EV جهاز فحص سيارات فولكس فاجن ID4و ID6 الكهربائية',
+          name: ' Autel 909  EV جهاز فحص السيارات الكهربائيه وسيارات ID4 ID6',
           // name: 'ID4 Car Diagnostic Scanner - Scan Your ID4 ID6 With Autel 909EV',
     
     
           currency: 'AED',
           price: 10000,
           flag: 'new',
-          imageSource: require('../images/product-images/AutelMSULTRAEVDirectionalScanTool.webp'),
+          imageSource: require('../images/product-images/Autel-MS909EV.webp'),
           rating: 5,
           ratingCount: 1,
           description: 'نظام التشخيص الذكي Autel 909 EV Professional EV، وهو جهاز لوحي عالي الأداء مقاس 9.7 بوصة يدعم اتصال Bluetooth وبروتوكولات DoIP وCAN-FD. مع تحديثات البرامج عبر الإنترنت والتوافق مع معظم موديلات Tesla EV، فإنه يوفر وظائف تشخيصية شاملة بما في ذلك الكشف عن حزمة البطارية، وتشخيص Tesla، وقراءة معلومات وحدة التحكم الإلكترونية، ومسح DTC، وتحليل البيانات المباشرة، وأكثر من 40 وظيفة خاصة. بالإضافة إلى ذلك، فهو يوفر دعم IMMO لمزيد من الأمان. ابق في المقدمة مع MS909 EV واطلق العنان للإمكانات الكاملة لتشخيص المركبات الكهربائية. ',
@@ -599,7 +599,7 @@ Protocols	DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single
                     `,
           portType: 'none',
           function: 'scanner',
-          illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/AutelMSULTRAEVOBD2CANBi-DirectionalScanToolwithEVandVCMI.webp',
+          illustration: 'https://raw.githubusercontent.com/almuhandesLLC/EVChargers/main/src/components/images/product-images/Autel-MS909EV-Box.webp',
           // illustration2: 'https://service.tesla.com/assets/images/png/bodyshops/desktop/bodyshop-hero-desktop-g.jpg',
           op: 'Android',
          
