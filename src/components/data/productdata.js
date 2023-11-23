@@ -410,16 +410,16 @@
       },
      {
           id:'903',
-          name: 'ID4 Car Diagnostic Scanner - Scan Your ID4 ID6 With Autel Ultra EV',
+          name: ' Autel Ultra  EV جهاز فحص سيارات فولكس فاجن ID4و ID6 الكهربائية',
           currency: 'AED',
           price: 14000,
           flag: 'new',
           imageSource: require('../images/product-images/AutelMSULTRAEVDirectionalScanTool.webp'),
           rating: 5,
           ratingCount: 1,
-          description: 'Autel Ultra EV Professional EV Smart Diagnostic System, a high-performance 12.9-inch tablet that supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
-          longDescription: `Introducing the Autel Ultra EV Professional EV Smart Diagnostic System, the ultimate companion for all your electric vehicle diagnostic needs. Engineered for excellence, this powerful tablet boasts a 13-inch display, delivering high performance and durability to ensure a long-lasting diagnostic experience.
-          This tool can scan and diagnose all Tesla models,ID.4 ,ID 6 crozz,ID buzz,Nissan Leaf ,and Mercedes-Benz EQC and clear error codes. It can also be used to reset the service light and perform battery resets.
+          description: 'نظام التشخيص الذكي Autel Ultra EV Professional EV، وهو جهاز لوحي عالي الأداء مقاس 12.9 بوصة يدعم اتصالات Bluetooth وبروتوكولات DoIP وCAN-FD. مع تحديثات البرامج عبر الإنترنت والتوافق مع معظم موديلات Tesla EV، فإنه يوفر وظائف تشخيصية شاملة بما في ذلك الكشف عن حزمة البطارية، وتشخيص Tesla، وقراءة معلومات وحدة التحكم الإلكترونية، ومسح DTC، وتحليل البيانات المباشرة، وأكثر من 40 وظيفة خاصة. بالإضافة إلى ذلك، فهو يوفر دعم IMMO لمزيد من الأمان. ابق في المقدمة مع Ultra EV واطلق العنان للإمكانات الكاملة لتشخيص المركبات الكهربائية. ',
+          longDescription: `نقدم لكم نظام التشخيص الذكي Autel Ultra EV Professional EV، الرفيق النهائي لجميع احتياجات تشخيص سيارتك الكهربائية. تم تصميم هذا الجهاز اللوحي القوي لتحقيق التميز، وهو يتميز بشاشة مقاس 13 بوصة، مما يوفر أداءً عاليًا ومتانة لضمان تجربة تشخيصية طويلة الأمد.
+           يمكن لهذه الأداة مسح وتشخيص جميع موديلات Tesla، ID.4، وID 6 crozz، وID Buzz، وNissan Leaf، وMercedes-Benz EQC ومسح رموز الخطأ. ويمكن استخدامه أيضًا لإعادة ضبط ضوء الخدمة وإجراء عمليات إعادة ضبط البطارية.
 
           Autel Ultra EV Automotive Diagnostic
           feather:
@@ -532,7 +532,7 @@
       },
   {
           id:'904',
-          name: 'Autel MaxiSys 909EV Electric Car Diagnostic Scanner',
+          name: 'Autel 909  EV جهاز فحص سيارات فولكس فاجن ID4و ID6 الكهربائية',
           // name: 'ID4 Car Diagnostic Scanner - Scan Your ID4 ID6 With Autel 909EV',
     
     
@@ -542,9 +542,9 @@
           imageSource: require('../images/product-images/AutelMSULTRAEVDirectionalScanTool.webp'),
           rating: 5,
           ratingCount: 1,
-          description: 'Autel 909 EV Professional EV Smart Diagnostic System, a high-performance 9.7-inch tablet that supports Bluetooth communication, DoIP, and CAN-FD protocols. With online software updates and compatibility with most Tesla EV models, it offers comprehensive diagnostic functions including battery pack detection, Tesla diagnosis, ECU information reading, DTC clearing, live data analysis, and over 40 special functions. Plus, it provides IMMO support for added security. Stay ahead with the Ultra EV and unlock the full potential of electric vehicle diagnostics. ',
-          longDescription: `Introducing the Autel 909 EV Professional EV Smart Diagnostic System, the ultimate companion for all your electric vehicle diagnostic needs. Engineered for excellence, this powerful tablet boasts a 9.7-inch display, delivering high performance and durability to ensure a long-lasting diagnostic experience.
-          This tool can scan and diagnose all Tesla models,ID.4 ,ID 6 crozz,ID buzz,Nissan Leaf ,and Mercedes-Benz EQC and clear error codes. It can also be used to reset the service light and perform battery resets.
+          description: 'نظام التشخيص الذكي Autel 909 EV Professional EV، وهو جهاز لوحي عالي الأداء مقاس 9.7 بوصة يدعم اتصال Bluetooth وبروتوكولات DoIP وCAN-FD. مع تحديثات البرامج عبر الإنترنت والتوافق مع معظم موديلات Tesla EV، فإنه يوفر وظائف تشخيصية شاملة بما في ذلك الكشف عن حزمة البطارية، وتشخيص Tesla، وقراءة معلومات وحدة التحكم الإلكترونية، ومسح DTC، وتحليل البيانات المباشرة، وأكثر من 40 وظيفة خاصة. بالإضافة إلى ذلك، فهو يوفر دعم IMMO لمزيد من الأمان. ابق في المقدمة مع MS909 EV واطلق العنان للإمكانات الكاملة لتشخيص المركبات الكهربائية. ',
+          longDescription: `نقدم لكم نظام التشخيص الذكي Autel 909 EV Professional EV، الرفيق المثالي لجميع احتياجات تشخيص سيارتك الكهربائية. تم تصميم هذا الجهاز اللوحي القوي لتحقيق التميز، ويتميز بشاشة مقاس 9.7 بوصة، مما يوفر أداءً عاليًا ومتانة لضمان تجربة تشخيصية طويلة الأمد.
+           يمكن لهذه الأداة مسح وتشخيص جميع موديلات Tesla، ID.4، وID 6 crozz، وID Buzz، وNissan Leaf، وMercedes-Benz EQC ومسح رموز الخطأ. ويمكن استخدامه أيضًا لإعادة ضبط ضوء الخدمة وإجراء عمليات إعادة ضبط البطارية.
 
           Autel 909 EV Automotive Diagnostic
           feather:
@@ -890,8 +890,8 @@ Protocols	DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single
 
         },
         {
-          id: '24',
-          name: 'شاحن سيارة كهربائية ID4 و ID6 سريع بتيار DC',
+          id: '301',
+          name: 'شاحن سيارة كهربائية ID4 و ID6 سريع بتيار DCبسرعه 20 كيلو وات',
           currency: 'AED',
           price: 6000,
           tags: ['شاحن سيارة كهربائية جديد', 'شاحن سيارة كهربائية سريع', 'جرج سيارة كهربائية', 'شاحن ID4', 'شاحن ID6', 'شاحن فولكس فاجن', 'شاحن فولكس فاجن كهربائية', 'شاحن سيارة فولكس فاجن'],
@@ -904,7 +904,7 @@ Protocols	DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single
           longDescription: `
           تقدم هذه المحطة الشحنية الفعالة والقوية تجربة شحن متميزة لمجموعة متنوعة من السيارات الكهربائية، بما في ذلك سيارات هوندا وتويوتا وBYD التي تأتي مع منفذ الشحن الصيني GBT. يتميز هذا الشاحن بالعديد من المزايا الرائعة:
           
-          شحن سريع جدًا: يقوم الشاحن بشحن البطارية من 20% إلى 80% في غضون ساعة واحدة فقط، مما يوفر وقتًا قيمًا للمستخدمين.
+          شحن سريع جدًا: يقوم الشاحن بشحن البطارية من 20% إلى 80% في غضون ثلاث ساعات ، مما يوفر وقتًا قيمًا للمستخدمين.
           
           كهرباء 3 فاز: يتطلب الشاحن توصيله بمصدر كهرباء 3 فاز، والذي عادةً متوفر في الفيلات والمراكز التجارية من اللوحة الرئيسية للكهرباء.
           
@@ -918,6 +918,82 @@ Protocols	DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single
           illustration: require ('../images/product-images/DC_Charger_Port.png'),
           availablePorts: 'GBT',
           power: '22 كيلوواط / ساعة',
+          inputVoltage: '380-500 فولت (AC)',
+          inputFrequency: '45-55 هرتز',
+          current: '65 أمبير',
+          productWeight: '33 كيلوغرام',
+          cableLength: '5 متر',
+          protectionLevel: 'IP54',
+          dimensions: '393 * 630 * 145 مم',
+          operatingTemperature: '-30° ~ 60°',
+        },
+     {
+          id: '302',
+          name: 'شاحن سيارة كهربائية ID4 و ID6 سريع بتيار DCبسرعه 30  كيلو وات',
+          currency: 'AED',
+          price: 9000,
+          tags: ['شاحن سيارة كهربائية جديد', 'شاحن سيارة كهربائية سريع', 'جرج سيارة كهربائية', 'شاحن ID4', 'شاحن ID6', 'شاحن فولكس فاجن', 'شاحن فولكس فاجن كهربائية', 'شاحن سيارة فولكس فاجن'],
+          flag: 'new',
+          imageSource: require('../images/product-images/DC-Charger.webp'),
+          rating: 5,
+          ratingCount: 1,
+          function: 'charger',
+          description: "محطة شحن GBT الصينية للسيارات الكهربائية توفر شحنًا فائق السرعة من 20% إلى 80% في ساعة واحدة، وتعمل بكهرباء 3 فاز من اللوحة الرئيسية، مع تصميم مقاوم للماء ودرجات حرارة قاسية. تقدم قوة تصل إلى 30 كيلوواط ويمكن تركيبها بسهولة على الحائط، مع شاشة لعرض معلومات الشحن.          ",
+          longDescription: `
+          تقدم هذه المحطة الشحنية الفعالة والقوية تجربة شحن متميزة لمجموعة متنوعة من السيارات الكهربائية، بما في ذلك سيارات هوندا وتويوتا وBYD التي تأتي مع منفذ الشحن الصيني GBT. يتميز هذا الشاحن بالعديد من المزايا الرائعة:
+          
+          شحن سريع جدًا: يقوم الشاحن بشحن البطارية من 20% إلى 80% في غضون ساعتين ، مما يوفر وقتًا قيمًا للمستخدمين.
+          
+          كهرباء 3 فاز: يتطلب الشاحن توصيله بمصدر كهرباء 3 فاز، والذي عادةً متوفر في الفيلات والمراكز التجارية من اللوحة الرئيسية للكهرباء.
+          
+          مقاوم للعوامل البيئية: يتمتع الشاحن بتصنيف درجة الحماية IP56، مما يجعله مقاومًا لرشات الماء في جميع الاتجاهات ويضمن أداءً موثوقًا في ظروف الطقس المتغيرة.
+          
+          مقاوم للظروف البيئية القاسية: يمكن لهذا الشاحن تحمل درجات حرارة تتراوح بين 30 تحت الصفر و60 درجة مئوية كحد أقصى، مما يجعله مناسبًا للاستخدام في مناطق ذات ظروف مناخية متنوعة.
+          
+          قوة كبيرة: يقدم الشاحن قوة تصل إلى 30 كيلوواط لكل ساعة بتيار يبلغ 65 أمبير، مما يضمن شحنًا سريعًا وفعالًا.
+          
+          تصميم مريح: يمكن تثبيت الشاحن بسهولة على الحائط ويأتي مع شاشة لعرض معلومات عن عملية الشحن لتوفير راحة إضافية للمستخدمين.`,
+          illustration: require ('../images/product-images/DC_Charger_Port.png'),
+          availablePorts: 'GBT',
+          power: '30 كيلوواط / ساعة',
+          inputVoltage: '380-500 فولت (AC)',
+          inputFrequency: '45-55 هرتز',
+          current: '65 أمبير',
+          productWeight: '33 كيلوغرام',
+          cableLength: '5 متر',
+          protectionLevel: 'IP54',
+          dimensions: '393 * 630 * 145 مم',
+          operatingTemperature: '-30° ~ 60°',
+        },
+     {
+          id: '303',
+          name: 'شاحن سيارة كهربائية ID4 و ID6 سريع بتيار DCبسرعه 40   كيلو وات',
+          currency: 'AED',
+          price: 12000,
+          tags: ['شاحن سيارة كهربائية جديد', 'شاحن سيارة كهربائية سريع', 'جرج سيارة كهربائية', 'شاحن ID4', 'شاحن ID6', 'شاحن فولكس فاجن', 'شاحن فولكس فاجن كهربائية', 'شاحن سيارة فولكس فاجن'],
+          flag: 'new',
+          imageSource: require('../images/product-images/DC-Charger.webp'),
+          rating: 5,
+          ratingCount: 1,
+          function: 'charger',
+          description: "محطة شحن GBT الصينية للسيارات الكهربائية توفر شحنًا فائق السرعة من 20% إلى 80% في ساعة واحدة، وتعمل بكهرباء 3 فاز من اللوحة الرئيسية، مع تصميم مقاوم للماء ودرجات حرارة قاسية. تقدم قوة تصل إلى 40 كيلوواط ويمكن تركيبها بسهولة على الحائط، مع شاشة لعرض معلومات الشحن.          ",
+          longDescription: `
+          تقدم هذه المحطة الشحنية الفعالة والقوية تجربة شحن متميزة لمجموعة متنوعة من السيارات الكهربائية، بما في ذلك سيارات هوندا وتويوتا وBYD التي تأتي مع منفذ الشحن الصيني GBT. يتميز هذا الشاحن بالعديد من المزايا الرائعة:
+          
+          شحن سريع جدًا: يقوم الشاحن بشحن البطارية من 20% إلى 80% في غضون ساعة واحدة فقط، مما يوفر وقتًا قيمًا للمستخدمين.
+          
+          كهرباء 3 فاز: يتطلب الشاحن توصيله بمصدر كهرباء 3 فاز، والذي عادةً متوفر في الفيلات والمراكز التجارية من اللوحة الرئيسية للكهرباء.
+          
+          مقاوم للعوامل البيئية: يتمتع الشاحن بتصنيف درجة الحماية IP56، مما يجعله مقاومًا لرشات الماء في جميع الاتجاهات ويضمن أداءً موثوقًا في ظروف الطقس المتغيرة.
+          
+          مقاوم للظروف البيئية القاسية: يمكن لهذا الشاحن تحمل درجات حرارة تتراوح بين 30 تحت الصفر و60 درجة مئوية كحد أقصى، مما يجعله مناسبًا للاستخدام في مناطق ذات ظروف مناخية متنوعة.
+          
+          قوة كبيرة: يقدم الشاحن قوة تصل إلى 40 كيلوواط لكل ساعة بتيار يبلغ 65 أمبير، مما يضمن شحنًا سريعًا وفعالًا.
+          
+          تصميم مريح: يمكن تثبيت الشاحن بسهولة على الحائط ويأتي مع شاشة لعرض معلومات عن عملية الشحن لتوفير راحة إضافية للمستخدمين.`,
+          illustration: require ('../images/product-images/DC_Charger_Port.png'),
+          availablePorts: 'GBT',
+          power: '40 كيلوواط / ساعة',
           inputVoltage: '380-500 فولت (AC)',
           inputFrequency: '45-55 هرتز',
           current: '65 أمبير',
