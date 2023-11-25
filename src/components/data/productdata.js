@@ -410,18 +410,18 @@
       },
      {
           id:'903',
-          name: ' Autel Ultra  EV جهاز فحص سيارات فولكس فاجن ID4و ID6 الكهربائية',
+          name: ' Autel ultra ev  جهاز فحص السيارات اوتيل الترا',
           currency: 'AED',
           price: 14000,
           flag: 'new',
           imageSource: require('../images/product-images/AutelMSULTRAEVDirectionalScanTool.webp'),
           rating: 5,
           ratingCount: 1,
-          description: 'نظام التشخيص الذكي Autel Ultra EV Professional EV، وهو جهاز لوحي عالي الأداء مقاس 12.9 بوصة يدعم اتصالات Bluetooth وبروتوكولات DoIP وCAN-FD. مع تحديثات البرامج عبر الإنترنت والتوافق مع معظم موديلات Tesla EV، فإنه يوفر وظائف تشخيصية شاملة بما في ذلك الكشف عن حزمة البطارية، وتشخيص Tesla، وقراءة معلومات وحدة التحكم الإلكترونية، ومسح DTC، وتحليل البيانات المباشرة، وأكثر من 40 وظيفة خاصة. بالإضافة إلى ذلك، فهو يوفر دعم IMMO لمزيد من الأمان. ابق في المقدمة مع Ultra EV واطلق العنان للإمكانات الكاملة لتشخيص المركبات الكهربائية. ',
+          description: 'Autel ultra ev  جهاز فحص السيارات اوتيل الترا   نظام التشخيص الذكي Autel Ultra EV Professional EV، وهو جهاز لوحي عالي الأداء مقاس 12.9 بوصة يدعم اتصالات Bluetooth وبروتوكولات DoIP وCAN-FD. مع تحديثات البرامج عبر الإنترنت والتوافق مع معظم موديلات Tesla EV، فإنه يوفر وظائف تشخيصية شاملة بما في ذلك الكشف عن حزمة البطارية، وتشخيص Tesla، وقراءة معلومات وحدة التحكم الإلكترونية، ومسح DTC، وتحليل البيانات المباشرة، وأكثر من 40 وظيفة خاصة. بالإضافة إلى ذلك، فهو يوفر دعم IMMO لمزيد من الأمان. ابق في المقدمة مع Ultra EV واطلق العنان للإمكانات الكاملة لتشخيص المركبات الكهربائية. ',
           longDescription: `نقدم لكم نظام التشخيص الذكي Autel Ultra EV Professional EV، الرفيق النهائي لجميع احتياجات تشخيص سيارتك الكهربائية. تم تصميم هذا الجهاز اللوحي القوي لتحقيق التميز، وهو يتميز بشاشة مقاس 13 بوصة، مما يوفر أداءً عاليًا ومتانة لضمان تجربة تشخيصية طويلة الأمد.
            يمكن لهذه الأداة مسح وتشخيص جميع موديلات Tesla، ID.4، وID 6 crozz، وID Buzz، وNissan Leaf، وMercedes-Benz EQC ومسح رموز الخطأ. ويمكن استخدامه أيضًا لإعادة ضبط ضوء الخدمة وإجراء عمليات إعادة ضبط البطارية.
 
-          Autel Ultra EV Automotive Diagnostic
+          Autel ultra ev  جهاز فحص السيارات اوتيل الترا
           feather:
           
           Operating System	:Android 7.0
@@ -464,6 +464,7 @@
           Storage Temperature	-20 to 60°C (-4 to 140°F)
           Dimensions (WxHxD)	366.5 mm (14.43") x 280.9 mm (11.06") x 34 mm (1.34")
           Weight	2.18kg (4.81 lb.)
+         يدعم  Autel ultra ev  جهاز فحص السيارات اوتيل الترا
           Protocols
           
           DoIP, PLC J2497, ISO-15765, SAE-J1939, ISO-14229 UDS, SAE-J2411 Single Wire Can (GMLAN), ISO-11898-2, ISO-11898-3, SAE-J2819 (TP20), TP16, ISO-9141, ISO-14230, SAE-J2610 (Chrysler SCI), UART Echo Byte, SAE-J2809 (Honda Diag-H), SAE-J2740 (GM ALDL), SAE-J1567 (CCD BUS), Ford UBP, Nissan DDL UART with Clock, BMW DS2, BMW DS1, SAE J2819 (VAG KW81), KW82, SAE J1708, SAE-J1850 PWM (Ford SCP), SAE-J1850 VPW (GM Class2) 
@@ -479,7 +480,7 @@
       },
   {
           id:'905',
-          name: 'EV Diagnostics Upgrade Kit',
+          name: 'Autel EV Diagnostics Upgrade Kit',
           currency: 'AED',
           price: 3250,
           flag: 'new',
@@ -532,7 +533,7 @@
       },
   {
           id:'904',
-          name: ' Autel 909  EV جهاز فحص السيارات الكهربائيه وسيارات ID4 ID6',
+          name: ' Autel 909 ev  جهاز فحص السيارات اوتيل ',
           // name: 'ID4 Car Diagnostic Scanner - Scan Your ID4 ID6 With Autel 909EV',
     
     
@@ -547,6 +548,7 @@
            يمكن لهذه الأداة مسح وتشخيص جميع موديلات Tesla، ID.4، وID 6 crozz، وID Buzz، وNissan Leaf، وMercedes-Benz EQC ومسح رموز الخطأ. ويمكن استخدامه أيضًا لإعادة ضبط ضوء الخدمة وإجراء عمليات إعادة ضبط البطارية.
 
           Autel 909 EV Automotive Diagnostic
+          Autel 909 ev  جهاز فحص السيارات اوتيل 
           feather:
           
           
